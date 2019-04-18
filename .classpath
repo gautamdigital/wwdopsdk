@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/amitm/eclipse-workspace/openpay-gateway/library/openpay-sdk-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/amitm/Desktop/lib/commons-codec-1.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/amitm/Desktop/lib/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/amitm/Desktop/lib/httpclient-4.5.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/amitm/Desktop/lib/httpcore-4.4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/amitm/Desktop/lib/jaxp-api-1.4.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/amitm/Desktop/lib/json-20171018.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.93/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

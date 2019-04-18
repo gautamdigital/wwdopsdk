@@ -1,0 +1,34 @@
+*{padding: 0; margin: 0 auto; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box;}
+header{width: 100%;float:left; clear: both; padding: 10px 0; }
+.container{max-width: 1170px; width: 100%;margin:0 auto; padding: 0;}
+
+.logo{width: 150px; display: inline-block;}
+nav{width: 100%;display: block; padding: 10px 0; background: #1dd2b6;}
+nav ul{list-style: none;}
+nav ul li{display: inline-block; vertical-align: top;}
+nav ul li a{padding: 15px;}
+.section{width: 100%;float: left;clear: both;padding: 30px 0; min-height: 400px;}
+#myform, #dispatchform, .refund-popup, .fruadalert-popup, #minMaxform{display: inline-block;vertical-align: top; margin-right: 10px;}
+.plan-details p{ display: inline-block; margin-bottom: 10px; }
+.plan-details, .form-buttom{width: 100%; display: inline-block;text-align: center; vertical-align: top;}
+.form-buttom input[type="submit"], .form-buttom input[type="button"], .refund-popup a, .fruadalert-popup a{padding: 10px 20px;border: 0;text-align: center;background: #08b59b;vertical-align: top;
+display: inline-block;color: #fff;text-decoration: none;}
+
+
+footer{width: 100%;float: left;clear: both;padding: 30px 0; background: #9cd8f3 }
+.copyright{text-align: center;}
+
+#ex1 > p{font-size: 20px; font-weight:700; text-transform: uppercase;margin-bottom: 20px;}
+#ex2 > p{font-size: 20px; font-weight:700; text-transform: uppercase;margin-bottom: 20px;}
+#myrefundform p{margin-bottom: 10px;}
+#myrefundform input[type="text"], #fraudAlertform input[type="text"]{padding: 10px; border:1px solid #ece;}
+#myrefundform input[type="button"], #fraudAlertform input[type="button"]{padding: 10px 20px; border:0; background: #08b59b; color: #fff;}
+
+.home-section{ position: relative; background-size: cover; background-repeat: no-repeat; }
+.home-section:before{ content: ''; position: absolute; width: 100%; height: 100%; top: 0; left: 0; background: rgba(0, 0, 0, 0.5);}
+.plan-details h2{ margin-bottom: 15px; padding-top: 100px; color: #fff; text-transform: uppercase;}
+.home-section .plan-details{ position: relative;}
+
+
+.btn-openay{padding: 10px 20px; border: 0; text-align: center; background: #08b59b; vertical-align: top; display: inline-block; color: #fff;
+    text-decoration: none;}
